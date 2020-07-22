@@ -1,2 +1,2 @@
 # hello-world
-Here I try a new repository
+Here I try to make a new repository
